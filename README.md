@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hvs911
-- 👀 I’m interested in IoT Solutions and Web Development
+- 👀 I’m interested in Full Stack Web Development and IoT Solutions
 - 🌱 I’m currently learning Python programming and REACT JS
 - 📫 How to reach me, hittarth911@gmail.com
 
